@@ -32,5 +32,4 @@ If you are new to **Machine Learning**, this project is for you.
 
 ---
 
-## 📂 Project Structure
 
